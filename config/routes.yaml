@@ -1,0 +1,6 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+willydamtchou_symfony_thirdparty_adapter:
+    resource: '@WillydamtchouSymfonyThirdpartyAdapterBundle/Resources/config/routes.yaml'
